@@ -1,1 +1,29 @@
-AABBCCDDEEFFGG
+AABBCCDDEEFFGG[33mcommit 61fa58bb43718c21286daef04e5b7871be1d3a1a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: masterbu <masterbu@163.com>
+Date:   Thu Jul 20 12:38:26 2017 +0800
+
+    git tracks changes
+
+[33mcommit 923faaeb993280e5bab6a15d99e973e617abe0ee[m
+Author: masterbu <masterbu@163.com>
+Date:   Thu Jul 20 12:36:35 2017 +0800
+
+    understand how stage works
+
+[33mcommit d9b70e2d76829c134b1dd99b5ba442c61b598aeb[m
+Author: masterbu <masterbu@163.com>
+Date:   Wed Jul 19 22:12:37 2017 +0800
+
+    test back
+
+[33mcommit 259b22e8fa5e7d33edf0cd4e5f74fa424e24c312[m
+Author: masterbu <masterbu@163.com>
+Date:   Wed Jul 19 22:11:27 2017 +0800
+
+    add distributes
+
+[33mcommit 1007a1dfd4e32cd1bb6546f176decc983b2f5a67[m
+Author: masterbu <masterbu@163.com>
+Date:   Wed Jul 19 22:06:15 2017 +0800
+
+    wrote a readme file
